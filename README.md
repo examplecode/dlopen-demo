@@ -1,6 +1,6 @@
-#c/c++ plugin example code
+# using dlopen function implements a plugin mechanism
 
-In this section, I will show an example of plugin in c/c++
+In this section, I will show an example of plugin use dlopen function. 'myplugin' show in c and 'myplugin2' show in c++ . 
 ## myplugin 
 
 show dlopen in call
